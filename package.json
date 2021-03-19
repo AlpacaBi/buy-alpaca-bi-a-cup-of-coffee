@@ -23,5 +23,10 @@
     "webpack-cli": "^4.3.1"
   },
   "author": "Alpaca Bi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlpacaBi/buy-alpaca-bi-a-cup-of-coffee.git"
+  },
+  "homepage": "https://github.com/AlpacaBi/buy-alpaca-bi-a-cup-of-coffee#readme",
   "license": "Do What The Fuck You Want To Public License"
 }
